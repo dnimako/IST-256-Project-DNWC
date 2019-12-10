@@ -49,67 +49,67 @@ El Salvador colon, SVC
 Eritrean nakfa, ERN
 Estonian kroon, EEK
 Ethiopian birr, ETB
-EU euro	EUR
-Falkland Islands pound	FKP
-Fiji dollar	FJD
-Gambian dalasi	GMD
-Georgian lari	GEL
-Ghanaian new cedi	GHS
-Gibraltar pound	GIP
-Gold (ounce)	XAU
-Gold franc	XFO
-Guatemalan quetzal	GTQ
-Guinean franc	GNF
-Guyana dollar	GYD
-Haitian gourde	HTG
-Honduran lempira	HNL
-Hong Kong SAR dollar	HKD
-Hungarian forint	HUF
-Icelandic krona	ISK
-IMF special drawing right	XDR
-Indian rupee	INR
-Indonesian rupiah	IDR
-Iranian rial	IRR
-Iraqi dinar	IQD
-Israeli new shekel	ILS
-Jamaican dollar	JMD
-Japanese yen	JPY
-Jordanian dinar	JOD
-Kazakh tenge	KZT
-Kenyan shilling	KES
-Kuwaiti dinar	KWD
-Kyrgyz som	KGS
-Lao kip	LAK
-Latvian lats	LVL
-Lebanese pound	LBP
-Lesotho loti	LSL
-Liberian dollar	LRD
-Libyan dinar	LYD
-Lithuanian litas	LTL
-Macao SAR pataca	MOP
-Macedonian denar	MKD
-Malagasy ariary	MGA
-Malawi kwacha	MWK
-Malaysian ringgit	MYR
-Maldivian rufiyaa	MVR
-Mauritanian ouguiya	MRO
-Mauritius rupee	MUR
-Mexican peso	MXN
-Moldovan leu	MDL
-Mongolian tugrik	MNT
-Moroccan dirham	MAD
-Mozambique new metical	MZN
-Myanmar kyat	MMK
-Namibian dollar	NAD
-Nepalese rupee	NPR
-Netherlands Antillian guilder	ANG
-New Zealand dollar	NZD
-Nicaraguan cordoba oro	NIO
-Nigerian naira	NGN
-North Korean won	KPW
-Norwegian krone	NOK
-Omani rial	OMR
-Pakistani rupee	PKR
+EU euro, EUR
+Falkland Islands pound, FKP
+Fiji dollar, FJD
+Gambian dalasi, GMD
+Georgian lari, GEL
+Ghanaian new cedi, GHS
+Gibraltar pound, GIP
+Gold (ounce), XAU
+Gold franc, XFO
+Guatemalan quetzal, GTQ
+Guinean franc, GNF
+Guyana dollar, GYD
+Haitian gourde, HTG
+Honduran lempira, HNL
+Hong Kong SAR dollar, HKD
+Hungarian forint, HUF
+Icelandic krona, ISK
+IMF special drawing right, XDR
+Indian rupee, INR
+Indonesian rupiah, IDR
+Iranian rial, IRR
+Iraqi dinar, IQD
+Israeli new shekel, ILS
+Jamaican dollar, JMD
+Japanese yen, JPY
+Jordanian dinar, JOD
+Kazakh tenge, KZT
+Kenyan shilling, KES
+Kuwaiti dinar, KWD
+Kyrgyz som, KGS
+Lao kip, LAK
+Latvian lats, LVL
+Lebanese pound, LBP
+Lesotho loti, LSL
+Liberian dollar, LRD
+Libyan dinar, LYD
+Lithuanian litas, LTL
+Macao SAR pataca, MOP
+Macedonian denar, MKD
+Malagasy ariary, MGA
+Malawi kwacha, MWK
+Malaysian ringgit, MYR
+Maldivian rufiyaa, MVR
+Mauritanian ouguiya, MRO
+Mauritius rupee, MUR
+Mexican peso, MXN
+Moldovan leu, MDL
+Mongolian tugrik, MNT
+Moroccan dirham, MAD
+Mozambique new metical, MZN
+Myanmar kyat, MMK
+Namibian dollar, NAD
+Nepalese rupee, NPR
+Netherlands Antillian guilder, ANG
+New Zealand dollar, NZD
+Nicaraguan cordoba oro, NIO
+Nigerian naira, NGN
+North Korean won, KPW
+Norwegian krone, NOK
+Omani rial, OMR
+Pakistani rupee, PKR
 Palladium (ounce)	XPD
 Panamanian balboa	PAB
 Papua New Guinea kina	PGK
